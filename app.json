@@ -1,6 +1,6 @@
 
 {
-  "name": "Kemono-Michi-English",
+  "name": "ShadowNinja_Group_Robot",
   "description": "Telegram's sexiest group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/Hackingfather/Kemono-Michi-English",
+  "repository": "https://github.com/shadowninja024/ShadowNinja-Group_Robot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -21,11 +21,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "889551592"
+      "value": "709096827"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "Dedsec_Deadman"
+      "value": "Shadow_ninja_legit"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
